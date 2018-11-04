@@ -1,0 +1,12 @@
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    height: 300px;
+    border-radius: 2px;
+}
+
+#container {
+    padding: 100px;
+}
